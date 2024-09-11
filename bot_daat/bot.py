@@ -1,7 +1,7 @@
 import asyncio
 # import requests
 import sqlite3
-bot_api = "7116558072:AAGimSr8PBVo-cfi5Ji2d2VtqGVby05Y4DQ"
+bot_api = "7064005545:AAHAFEW7XCrBIWxz5GMowlKF8-i256zmUjo"
 from aiogram import Bot, types, Dispatcher
 from aiogram.filters import Command, CommandObject, CommandStart
 from aiogram import F
